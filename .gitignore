@@ -1,0 +1,13 @@
+# Ignore compiled files
+
+
+# Ignore log files
+*.env
+node_modules
+logs/
+
+
+# Ignore build directories
+target/
+bin/
+.vercel
